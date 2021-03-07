@@ -7,14 +7,13 @@
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
-## Table of Contents
+## Description 
 <a name="description"></a>
-### Description 
 This project is a refraction of an existing webpage, this was done to update the existing code to current standards and to implement new technologies . This improvement was done to the original code without change what the code does. We did this by meeting accessibility standards and updating semantic elements.   
 
-## Table of Contents
+## Image 
 <a name="general-info"></a>
-### Image 
+ 
 
 
 ## Installation
