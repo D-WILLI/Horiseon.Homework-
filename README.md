@@ -12,7 +12,7 @@ This project is a refraction of an existing webpage, this was done to update the
 
 ## Image 
 <a name="general-info"></a>
-![My Screenshot #1](https://raw.githubusercontent.com/D-WILLI/Horiseon.Homework-/main/assets/images/Screen%20Shot%202021-03-07%20at%2010.49.12%20AM.png)
+![My Screenshot #1](assets/images/Screen%20Shot%202021-03-07%20at%2010.49.12%20AM.png)
 
 
 
