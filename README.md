@@ -9,12 +9,13 @@
 
 ## Table of Contents
 <a name="description"></a>
-## Description 
+### Description 
 This project is a refraction of an existing webpage, this was done to update the existing code to current standards and to implement new technologies . This improvement was done to the original code without change what the code does. We did this by meeting accessibility standards and updating semantic elements.   
 
 ## Table of Contents
 <a name="general-info"></a>
-### General Info
+### Image 
+
 
 ## Installation
 
