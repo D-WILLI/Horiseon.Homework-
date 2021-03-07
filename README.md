@@ -3,7 +3,6 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Images](#image)
-3. [Installation](#installation)
 
 
 ## Description 
@@ -18,12 +17,4 @@ This project is a refraction of an existing webpage, this was done to update the
 
 
 
-
-## Installation
-<a name="installation"></a>
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
