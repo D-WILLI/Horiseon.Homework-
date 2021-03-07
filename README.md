@@ -12,8 +12,9 @@ This project is a refraction of an existing webpage, this was done to update the
 
 ## Image 
 <a name="general-info"></a>
- ![Uploading Screen Shot 2021-03-07 at 10.46.41 AM.png…]()
-![Uploading Screen Shot 2021-03-07 at 10.47.05 AM.png…]()
+![alt text]( "Screen Shot 2021-03-07 at 10.49.12 AM.png")
+
+
 
 
 
