@@ -1,9 +1,11 @@
-* { /* Universal Styling */
+/* This hold Universal Styling */
+* { 
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Styling that targets all tags  */
 body {
     background-color: #d9dcd6;
 }
